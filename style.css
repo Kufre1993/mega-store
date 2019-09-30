@@ -46,7 +46,10 @@ body{
     justify-items: center !important;
 }
 .logInPart{
-    height: 525px !important;
+    height: 535px !important;
+}
+.logcard{
+    margin-top: 100px !important;
 }
 .mov{
     margin-top: 70px !important;
@@ -58,4 +61,17 @@ body{
     width: 250px !important;
     
 
+}
+.payment-card{
+    width: 65!important;
+    height: 35% !important;
+}
+.cuslog{
+    margin-top: 110px !important;
+}
+.cus{
+    margin-top: 50px  !important;
+}
+.cussignup{
+    margin-top: 23px !important;
 }
